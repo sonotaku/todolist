@@ -1,24 +1,34 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# アプリケーション名
+- ToDo List
 
-Things you may want to cover:
+## アプリケーション概要
+- ToDoリストを作成し、ゲーム感覚で課題を解決できる
 
-* Ruby version
+## URL
+- 
 
-* System dependencies
+## テスト用アカウント
+- 
 
-* Configuration
+## 利用方法
+- 
 
-* Database creation
+## 目指した課題解決
+- 
 
-* Database initialization
+## 洗い出した要件
+- 
 
-* How to run the test suite
+## 実装した機能についてのGIFと説明
+- 
 
-* Services (job queues, cache servers, search engines, etc.)
+## 実装予定の機能
+- 
 
-* Deployment instructions
+## データベース設計
+- 
 
-* ...
+## ローカルでの動作方法
+- 
